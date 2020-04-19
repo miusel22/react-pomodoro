@@ -1,0 +1,48 @@
+
+			body {
+                background-color: rgba(0, 0, 0, 0);
+				text-align: center;
+			}
+
+			
+
+			.bt1 {
+				height: 50px;
+				width: 50px;
+				font-size: 30px;
+				text-align: center;
+				align-content: center;
+                background-color: transparent;
+                color:white;
+			}
+
+            .bt2 {
+                height: 40px;
+                width: 180px;
+                font-size: 15px;
+                text-align: center;
+                align-content: center;
+                background-color: transparent;
+                color:white;
+            }
+
+			p {
+				color: #31dac3;
+				font-size: 50px;
+				text-align: center;
+				align-content: center;
+                background-color: transparent;
+                color:white;
+			}
+
+            .text-primary {
+                color: #31dac3;
+                font-size: 60px;
+            }
+
+            .container-fluid{
+
+                margin-top:220px;
+            }
+
+		
